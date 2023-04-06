@@ -2,7 +2,7 @@
 
 **Note:** This project is a work in progress and is not yet functional.
 
-Conversation Logger is a Python program for logging and parsing conversations. It includes functionality for storing conversation data in an SQLite database, parsing and analyzing conversation data, and unit testing.
+Conversation Logger is a Python program that allows users to log and analyze conversations. The program includes functionality for storing conversation data in an SQLite database, parsing and analyzing conversation data, and unit testing.
 
 ## PowerShell Script
 
@@ -105,9 +105,35 @@ To use Conversation Logger, follow these steps:
 
 For more detailed usage instructions and examples, refer to the documentation in the `README.md` file or the source code in the `src/` directory.
 
-## Contributing
+## Conversation Logger Project Roadmap
 
-If you're interested in contributing to Conversation Logger, please fork the repository and submit a pull request with your changes. Be sure to follow the existing code style and include tests for any new functionality.
+### Phase 1: Proof of Concept
+
+- [x] Create basic file structure for project
+- [x] Set up a SQLite database for storing conversation data
+- [x] Create a table to store conversation data
+- [x] Connect to database and insert sample data
+- [ ] Query and display sample data
+
+### Phase 2: Automation
+
+- [ ] Create a script to automatically extract conversations from a chat application (e.g. Discord, Slack) and save them to the database
+- [ ] Automate the process of extracting and parsing conversations from chat applications
+
+### Phase 3: Data Analysis and AI
+
+- [ ] Develop AI to analyze conversations and extract insights
+- [ ] Group conversations based on similarities
+- [ ] Add descriptive tags to parts of conversations
+- [ ] Identify common themes and topics in conversations
+- [ ] Create visualizations of conversation data
+
+### Phase 4: Collaboration and Integration
+
+- [ ] Allow sharing of documents, books, and instructions within the application
+- [ ] Create a mind map of conversation data to identify connections between seemingly unrelated things
+- [ ] Integrate with other applications to allow for easier collaboration
+- [ ] Develop a chatbot to help with conversation analysis and note-taking
 
 ## Recent Changes
 
