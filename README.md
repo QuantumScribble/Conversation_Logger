@@ -108,3 +108,12 @@ For more detailed usage instructions and examples, refer to the documentation in
 ## Contributing
 
 If you're interested in contributing to Conversation Logger, please fork the repository and submit a pull request with your changes. Be sure to follow the existing code style and include tests for any new functionality.
+
+## Recent Changes
+
+### Version 0.2.0
+
+- Installed Node.js to manage SQLite connections
+- Created a test database and established a test connection
+- Added functionality to create a table from an SQL file
+- Installed the SQLite extension in VS Code for improved database management
