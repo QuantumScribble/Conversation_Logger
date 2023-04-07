@@ -68,6 +68,12 @@ Here's what each file and directory does:
 
 - `setup.py`: This file is used to package your program into a distributable format and specify any dependencies.
 
+## Data Visualization
+
+For data visualization, we have chosen to use [Apache Superset](https://superset.apache.org/), an open-source platform for data exploration and visualization. Superset provides an intuitive interface for exploring data and creating interactive visualizations, making it an ideal choice for our project. Its extensive list of supported databases and integrations make it a flexible and powerful tool for our needs.
+
+To get started with Superset, refer to the [installation guide](https://superset.apache.org/docs/installation/installing-superset-from-scratch) in the official documentation.
+
 ## Installation
 
 To install Conversation Logger, follow these steps:
