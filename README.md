@@ -72,7 +72,7 @@ Here's what each file and directory does:
 
 For data visualization, we have chosen to use [Apache Superset](https://superset.apache.org/), an open-source platform for data exploration and visualization. Superset provides an intuitive interface for exploring data and creating interactive visualizations, making it an ideal choice for our project. Its extensive list of supported databases and integrations make it a flexible and powerful tool for our needs.
 
-To get started with Superset, refer to the [installation guide](https://superset.apache.org/docs/installation/installing-superset-from-scratch) in the official documentation.
+To get started with Superset in Docker, you can follow the instructions in the [Quick Start](https://superset.apache.org/docs/installation/quick-start) guide. This guide provides step-by-step instructions for installing and running Superset in a Docker container.
 
 ## Installation
 
